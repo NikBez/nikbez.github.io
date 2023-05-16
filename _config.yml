@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Portfolio page
 description: Hi! I am studing Web-programming now.  
+markdown: kramdown
